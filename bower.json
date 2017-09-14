@@ -1,0 +1,10 @@
+{
+  "name": "select2-adapted-str",
+  "homepage": "https://github.com/deivay/select2-adapted-str",
+  "authors": [
+    "davidpaley <paley@strands.com>"
+  ],
+  "description": "select2 adapted for Strands Aggregation Dashboard",
+  "main": "select2.min.js",
+  "license": "MIT"
+}
